@@ -53,7 +53,3 @@ contact-app/
 - Inspired by *CRUD applications*.  
 - MongoDB Docs & Express.js Guide.  
 - Built for learning *Node.js backend development*.  
-
-
-
-Would you like me to add a *step-by-step tutorial* or *detailed code explanations*? Let me know! 😊
